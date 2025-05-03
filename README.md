@@ -1,2 +1,2 @@
 # RidgeJB
-A Horrible Jailbreak.
+RidgeJB is a untethered jailbreak that is the only jailbreak that works with iOS 14-Latest. RidgeJB is based on Rede which is a exploit that is known for not working while offline. RidgeJB also is the safest jailbreak because it doesn't need a CFW but, is going to be optional soon with RidgeOS, which **can** be used offline, but is not very usable with Rede apps. RidgeJB also is going to have a Wiki in the "wiki" branch. Currently the Rede website isn't ready for use yet, so the mobileconfig file isn't in the repo.
